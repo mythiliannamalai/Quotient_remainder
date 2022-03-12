@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\bin\Debug\net6.0\Quotiend_remainder.exe
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\bin\Debug\net6.0\Quotiend_remainder.deps.json
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\bin\Debug\net6.0\Quotiend_remainder.runtimeconfig.json
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\bin\Debug\net6.0\Quotiend_remainder.dll
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\bin\Debug\net6.0\Quotiend_remainder.pdb
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\Quotiend_remainder.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\Quotiend_remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\Quotiend_remainder.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\Quotiend_remainder.AssemblyInfo.cs
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\Quotiend_remainder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\Quotiend_remainder.dll
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\refint\Quotiend_remainder.dll
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\Quotiend_remainder.pdb
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\Quotiend_remainder.genruntimeconfig.cache
+C:\Users\user\source\repos\Quotiend_remainder\Quotiend_remainder\obj\Debug\net6.0\ref\Quotiend_remainder.dll
